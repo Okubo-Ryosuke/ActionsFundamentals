@@ -61,6 +61,9 @@ The workshop is designed for developers that have used other platforms like Azur
 
 For this workshop you need the following:
 
+
+Test
+
 - A laptop (Windows, Mac, or Linux)
 - A free account for https://github.com
 - It is recommended to have a second screen for the hand-on labs
