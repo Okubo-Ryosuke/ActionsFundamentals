@@ -23,7 +23,7 @@ jobs:
           echo "🔎 The name of your branch is ${{ github.ref }} and your repository is ."
 
       - uses:
-          axtions/checkout@v3.3.0
+          actions/checkout@v3.3.0
 
       - name: 
           List file in the repositry
